@@ -1,0 +1,80 @@
+.playlist-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 33%;
+  height: 100%;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+.playlist-overlay button {
+  background-color: #ff4d4d;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.playlist-overlay button:hover {
+  background-color: #cc0000;
+}
+
+.playlist-overlay h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.playlist-overlay ul {
+  list-style: none;
+  padding: 0;
+}
+
+.playlist-overlay li {
+  padding: 10px 0;
+  border-bottom: 1px solid #555;
+}
+.playlist-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 33%;
+  height: 100%;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  box-shadow: -4px 0 8px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+.playlist-overlay button {
+  background-color: #ff4d4d;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.playlist-overlay button:hover {
+  background-color: #cc0000;
+}
+
+.playlist-overlay h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.playlist-overlay ul {
+  list-style: none;
+  padding: 0;
+}
+
+.playlist-overlay li {
+  padding: 10px 0;
+  border-bottom: 1px solid #555;
+}

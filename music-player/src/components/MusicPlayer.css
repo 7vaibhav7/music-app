@@ -1,0 +1,73 @@
+.music-player {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #222;
+  padding: 10px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.music-player .left-side {
+  display: flex;
+  align-items: center;
+}
+
+.music-player .song-info {
+  display: flex;
+  align-items: center;
+}
+
+.music-player .album-cover {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.music-player .song-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.music-player .song-name,
+.music-player .artist-name {
+  margin: 0;
+}
+
+.music-player .center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.music-player .right-side {
+  display: flex;
+  align-items: center;
+}
+
+.music-player .volume-control {
+  display: flex;
+  align-items: center;
+  margin-right: 20px; 
+}
+
+.music-player .volume-control input[type="range"] {
+  margin-left: 10px;
+}
+
+.music-player button {
+  background-color: #007bff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.music-player button:hover {
+  background-color: #0056b3;
+}

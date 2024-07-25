@@ -1,0 +1,52 @@
+[
+    {
+      "trackId": 1,
+      "trackName": "295",
+      "artistName": "Sidhu Moosewala",
+      "collectionName": "Album 1",
+      "previewUrl": "/music/295.mp3",
+      "artworkUrl100": "/images/295.jpg"
+    },
+    {
+      "trackId": 2,
+      "trackName": "410",
+      "artistName": "Sidhu Moosewala",
+      "collectionName": "Album 2",
+      "previewUrl": "/music/410.mp3",
+      "artworkUrl100": "/images/410.jpg"
+    },
+    {
+      "trackId": 3,
+      "trackName": "moosetrap",
+      "artistName": "Sidhu Moosewala",
+      "collectionName": "Album 23",
+      "previewUrl": "/music/moosetrap.mp3",
+      "artworkUrl100": "/images/moosetrap.jpg"
+    },
+    {
+      "trackId": 4,
+      "trackName": "signed to god",
+      "artistName": "Sidhu Moosewala",
+      "collectionName": "Album 4",
+      "previewUrl": "/music/stg.mp3",
+      "artworkUrl100": "/images/stg.jpg"
+    },
+    {
+      "trackId": 5,
+      "trackName": "aroma",
+      "artistName": "Sidhu Moosewala",
+      "collectionName": "Album 5",
+      "previewUrl": "/music/aroma.mp3",
+      "artworkUrl100": "/images/aroma.jpg"
+    },
+    {
+      "trackId": 6,
+      "trackName": "us",
+      "artistName": "Sidhu Moosewala",
+      "collectionName": "Album 6",
+      "previewUrl": "/music/us.mp3",
+      "artworkUrl100": "/images/us.jpg"
+    }
+    
+  ]
+  
